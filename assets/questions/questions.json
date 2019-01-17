@@ -1,0 +1,63 @@
+{
+	"1":{
+		"question": "We found the virus and bacterias in our body. Which vitamin can defend us from them?",
+		"answer": "a",
+		"damage": "25",
+		"options":{
+			"a": "Vitamin A",
+			"b": "Nothing can happen to us!",
+			"c": "Vitamin B1",
+		},
+	},
+	"2":{
+		"question": "We can't see well at nights! We have to get some Vitamin A!",
+		"answer": "c",
+		"damage": "15",
+		"options":{
+			"a": "We don't need to see at nights!",
+			"b": "Eat a Hamburger",
+			"c": "Eat a Carrott",
+		},
+	},
+	"3":{
+		"question": "Oh! I forget which one of those fighting with bacterias? We have to choose the right one or bacterias can conquer us!",
+		"answer": "c",
+		"damage": "50",
+		"options":{
+			"a": "Erythrocyte",
+			"b": "Superman",
+			"c": "Leukocyte",
+		},
+	},
+	"4":{
+		"question": "Our bodies performance decreasing. We must get some energy or we will start vomiting in soon. A little hint from me we need a Vitamin B5!",
+		"answer": "a",
+		"damage": "25",
+		"options":{
+			"a": "Egg and Milk",
+			"b": "CHOCOLATE!",
+			"c": "A Salad",
+		},
+	},
+	"5":{
+		"question": "What was Ribosome doing for us in a cell?",
+		"answer": "b",
+		"damage": "20",
+		"options":{
+			"a": "Protecting Our Cells",
+			"b": "Protein Synthesis",
+			"c": "Dancing?",
+		},
+	},
+	"6":{
+		"question": "Does Lysosome protect our cells?",
+		"answer": "a",
+		"damage": "10",
+		"options":{
+			"a": "No, its job is digestion.",
+			"b": "Yes, of course!",
+			"c": "Lysosome is bacteria",
+		},
+	},
+
+}
